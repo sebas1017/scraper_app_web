@@ -1,0 +1,30 @@
+
+  
+version: '3'
+
+services:
+  finca-raiz-service:
+    build: ./
+    ports:
+      - 3000:3000
+    container_name: finca_raiz_scraper
+    networks:
+      - app-tier
+  web-service:
+    build: ./webService
+    volumes:
+      - ./webService:/usr/src/app
+    ports:
+      - 5000:5000
+    container_name: web_service
+    networks:
+      - app-tier
+
+
+networks:
+  app-tier:
+    driver: bridge     
+volumes:
+  database-data:
+  
+  

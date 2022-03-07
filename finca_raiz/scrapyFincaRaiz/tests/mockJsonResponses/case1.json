@@ -1,0 +1,3310 @@
+{
+
+    "hits": {
+        "total": {
+            "value": 28621,
+            "relation": "eq"
+        },
+        "max_score": 10.069153,
+        "hits": [
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "f488ccc3-3a7e-44ff-9aad-c3d9e85c3ddd",
+                "_score": 10.069153,
+                "_source": {
+                    "listing": {
+                        "area": "160.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "7187.5",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Alquilo apartamento en barrio Calicanto - Valle del Lili. Segundo y tercer piso. Consta de 3 habitaciones,  3 closets,  3 baños,  sala-comedor,  1 balcón,  1 sala de estar,  zona de oficios amplia,  pisos en cerámica,  totalmente fresco y ventilado. Cerca a centros comerciales,  clínicas y estaciones del MIO. Cra 95A # 45-39. Agenda tu cita. .",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "f488ccc3-3a7e-44ff-9aad-c3d9e85c3ddd",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "BATH_3"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "1150000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Naranjo Inmobiliaria Ltda",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 2373113
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "160.0",
+                        "fr_property_id": 7047307,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "menor a 1 año"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "86efe176-eb1c-4c42-baa2-11661e915c1c",
+                "_score": 10.057249,
+                "_source": {
+                    "listing": {
+                        "area": "71.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "17605.6338028169",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "228000.0"
+                        },
+                        "description": "ALQUILO EN CALI,  HERMOSOS APARTAMENTO EN LUGAR PRIVILEGIADO.  Facil acceso,  tres alcobas,  dos baños,  sala,  comedor,  cocina,  zona de ropas,  balcon,  parqueadero propio en plataforma.  Cerca a centros comerciales,  supermercados,  centros de salud.  Acceso a transporte pulico facil .",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "86efe176-eb1c-4c42-baa2-11661e915c1c",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "1250000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "HM INMOBILIARIA",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 3038009
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Acceso Pavimentado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Ascensor"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Cancha de Futbol"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Circuito cerrado de TV"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Kiosko"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Parqueadero Visitantes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Piscina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Recepción"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zonas Verdes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Aire Acondicionado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Independiente"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Calentador"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Equipada"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 7013941,
+                        "floor": {
+                            "name": "4°"
+                        },
+                        "age": {
+                            "name": "9 a 15 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "093cd710-6b42-4c41-b894-3f1e9a650b3d",
+                "_score": 9.971528,
+                "_source": {
+                    "listing": {
+                        "area": "55.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "10909.09090909091",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Se alquila apartamento tercer piso al sur,  barrio Calicanto consta de  antejardin con reja,  sala comedor,  baño,  dos alcobas la principal con closet,  cocina sencilla,  zona de oficios. cerca a centros comerciales y vías principales.  773-486.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "093cd710-6b42-4c41-b894-3f1e9a650b3d",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "600000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Holguin y Holguin S.A.S",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 28776
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "55.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En zona residencial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Comedor"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Piso en Baldosa /  Mármol"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Ventilación Natural"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Zona de lavandería"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cerca a sector comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cerca centro comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cómodas vias de acceso"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía secundaria"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 7039944,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "1be53fae-0504-4107-965d-a54a89ca836b",
+                "_score": 9.658075,
+                "_source": {
+                    "listing": {
+                        "area": "51.21",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "14645.577035735208",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": true,
+                            "price": "0.0"
+                        },
+                        "description": "Apartamento ubicado en conjunto residencial de 51, 21 m2 con sala remodelada,  3 habitaciones,  2 baños,  cocina,  zona de lavado.  Parqueadero comunitario,  sector tranquilo,  cerca a avenidas principales ( la 70 y la primera) cerca a la catorce calima..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "1be53fae-0504-4107-965d-a54a89ca836b",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "750000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "GCA GROUP LTDA",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 3549670
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "51.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En conjunto cerrado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Jardín"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Parqueadero Visitantes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Recepción"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zona Infantil"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zonas Verdes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Piso en Baldosa /  Mármol"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía principal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Industrial"
+                            }
+                        ],
+                        "fr_property_id": 7038406,
+                        "floor": {
+                            "name": "4°"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "07eba943-2f86-4d81-a54d-42c939e59366",
+                "_score": 9.564239,
+                "_source": {
+                    "listing": {
+                        "area": "90.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "10000.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "SE RENTA  APARTAMENTO EN EL BARRIO CALIMA,   EN SEGUNDO PISO SIN ASCENSOR. CONTAN DE: SALA - COMEDOR,  COCINA INTEGRAL CON ESTUFA EMPOTRADA Y CAMPANA,  ZONA DE LAVADO CON CALENTADOR DE AGUA,  BAÑO AUXILIAR,  HABITACION PRINCIPAL CON CLOSET Y BAÑO,   2 HABITACIONES AUXILIARES CON CLOSET,   BALCON CON VISTA AL EXTERIOR EN LA SALA,  TODAS LAS VENTANAS TIENEN CORTINA,  TIENE CITOFONO,  UNA EXCELENTE UBICACION  ESTA A 1 CUADRA DE LA 14 DE CALIMA,  BUENA VENTILACION,  BUENA ILUMINACION,  FRENTE A UN PARQUE,  NO TIENEN PARQUEADERO (NI MOTOS,  NI CARRO) Y FULL ACABADOS. VALOR CANON $900.000 (SIN SERVICIOS) NO PAGA ADMINISTRACION  REQUISITOS: LA PERSONA QUE LO VA A TOMAR GANE EL DOBLE DEL CANON Y UN FIADOR QUE GANE EL DOBLE DEL CANON,  NO ESTAR REPORTADO EN LAS CENTRALES DE RIESGO Y SE REALIZA UN ESTUDIO CON ASEGURADORA.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "07eba943-2f86-4d81-a54d-42c939e59366",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "900000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Casas y Mas Cali",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 62139
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "90.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Canchas Deportivas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zonas Verdes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Área Urbana"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cómodas vias de acceso"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Restaurantes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía secundaria"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 7043867,
+                        "floor": {
+                            "name": "1°"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "bcadbb97-7eae-459d-8f2c-d7ea993dfcd1",
+                "_score": 9.564239,
+                "_source": {
+                    "listing": {
+                        "area": "60.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "15000.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Bienco arrienda apartamento en el barrio Calima tercer piso,  consta de sala comedor,  tres habitaciones dos de ellas con closet y una de servicio con baño,  cocina integral,  zona de ropas y baño social,  cuenta con parqueadero para moto en el primer piso,  el apartamento tiene una buena ubicación,  esta cerca a la 14 de calima,  fácil acceso al transporte.  Código web 82898.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "bcadbb97-7eae-459d-8f2c-d7ea993dfcd1",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "900000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Bienco S.A",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 28984
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "60.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cuarto de Servicio"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Depósito / Bodega"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Bombas de gasolina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cómodas vias de acceso"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía principal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6667021,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "más de 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "7444db41-c32f-44d8-ac79-0eb0c06e55ab",
+                "_score": 9.486794,
+                "_source": {
+                    "listing": {
+                        "area": "55.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "15090.90909090909",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "APARTAMENTO SEGUNDO PISO,  ÁREA 55 M2,  UBICADO EN EL CONJUNTO RESIDENCIAL CALICANTO,  CONSTA DE: SALA COMEDOR AMPLIA,  COCINA INTEGRAL CON GAS,  DOS ALCOBAS CON CLOSET,  BAÑO SOCIAL,  ZONA DE OFICIO,  EL CONJUNTO CUENTA CON PISCINA,  SALÓN SOCIAL,  PARQUEADERO SORTEADO. M.A 19..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "7444db41-c32f-44d8-ac79-0eb0c06e55ab",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "830000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Multibienes Ltda",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 173660
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En conjunto cerrado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Piscina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Salón Comunal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 7058488,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "ca1271cb-1758-4aa0-894c-a438c7cb17b4",
+                "_score": 9.33566,
+                "_source": {
+                    "listing": {
+                        "area": "50.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "8400.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Tienes la oportunidad de arrendar apartamento al oriente de Cali cerca a Comfandi Calipso,  si estás buscando en este sector,  ven y visita este inmueble.  Ubicado de forma esquinera en segundo piso a pocas cuadras del supermercado Comfandi Calipso,  es un lugar rodeado de almacenes comerciales,  supermercados,  colegios,  parques con amplias zonas verdes,  con cómodas vías de acceso y transporte publico cercano. El apartamento consta de sala comedor,  dos alcobas,  un baño,  cocineta sencilla con gas natural,  lavadero de ropa,  sus pisos son en cerámica.  Qué esperas para agendar tu cita ¡Contáctanos!.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "ca1271cb-1758-4aa0-894c-a438c7cb17b4",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "420000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "A Y C inmobiliarios S.A.S",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 29116
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "50.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En casa"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocineta"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Área Urbana"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cómodas vias de acceso"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía secundaria"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6735910,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "más de 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "f93db897-d82a-4234-a7fc-38e6f8bbdb33",
+                "_score": 9.33566,
+                "_source": {
+                    "listing": {
+                        "area": "56.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "11607.142857142857",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Conjunto Residencial HORIZONTE. Quinto piso,  garaje sótano. CONSTA DE,  sala,  comedor,  3 alcobas 2 closets,  baño,  cocina,  DOCUMENTOS: certificación laboral ingresos fijos mensuales $1.200.000 presentar desprendibles de nómina,  cedula 150% UN DEUDOR de igual ingresos,  asesoría,  Cita previa..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "f93db897-d82a-4234-a7fc-38e6f8bbdb33",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Excelente",
+                            "slug": "EXCELLENT"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "650000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Renta Bien Inmobiliaria",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 29152
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "56.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje(s)"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Recepción"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zona Infantil"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zonas Verdes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6918012,
+                        "floor": {
+                            "name": "5°"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "f571256b-b780-43cc-90c8-278058f339cd",
+                "_score": 9.310672,
+                "_source": {
+                    "listing": {
+                        "area": "59.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "11864.406779661016",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Apartamento con muy buenos acabados en el conjunto residencial Sorrento a  dos cuadras de la avenida Simón Bolívar,  terminal del MIO de Calipso,  Comfandi y supermercado del éxito. El apartamento cuenta con tres alcobas con closet,  un baño,  sala comedor,  cocina integral y la unidad cuenta con parqueadero común,  zonas verdes y seguridad las 24 horas..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "f571256b-b780-43cc-90c8-278058f339cd",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "700000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Bienco S.A",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 28984
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "59.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Cancha de Baloncesto"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Cancha de Futbol"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje / Parqueadero(s)"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Parqueadero Visitantes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Salón Comunal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia privada 24*7"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zona Infantil"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Hall de Alcobas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Shut de basura"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Área Urbana"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Bombas de gasolina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cómodas vias de acceso"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía principal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía secundaria"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6916799,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "f56515a2-5970-41c4-9ffd-d04715c76e2d",
+                "_score": 9.310672,
+                "_source": {
+                    "listing": {
+                        "area": "70.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "8571.42857142857",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "ALQUILO EXCELENTE APARTAMENTO EN CONJUNTO EN BARRIO  CALIPSO AL SURORIENTE  DE CALI. Calle 72A No. 28D-80 Ap 505-5 C.R. Sorrento 2. COD 1522. Excelente ubicación. Cerca de vía principal,  cerca de colegios,  supermercados y centros comerciales. Consta de salacomedor,  3 alcobas con closets,  baño,  cocina a gas,  zona de oficios,  balcón,  piscina,  parque infantil,  zonas verdes,  parqueadero para moto,  portería y vigilancia 24 horas..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "f56515a2-5970-41c4-9ffd-d04715c76e2d",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "600000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Naranjo Duque Inmobiliaria",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 29002
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Recepción"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zona Infantil"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zonas Verdes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            }
+                        ],
+                        "fr_property_id": 7060095,
+                        "floor": {
+                            "name": "5°"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "3ff26e50-3eef-4c57-9925-c0ddbbd7c701",
+                "_score": 9.279664,
+                "_source": {
+                    "listing": {
+                        "area": "50.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "9600.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Se alquila apto en el barrio calimio norte de 50 mt2,  el cual consta de sala comedor amplia e iluminada,  cocina con gas natural,  baño social,  2 habitaciones,  zona de oficios,  dentro del valor del canon de arrendamiento te incluyen los servicios de agua,  energía y gas.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "3ff26e50-3eef-4c57-9925-c0ddbbd7c701",
+                        "stratum": {
+                            "name": "Estrato 2"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "480000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Inmova House",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 352216
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "50.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En casa"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Hall de Alcobas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Área Urbana"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Bombas de gasolina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía principal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía secundaria"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6879199,
+                        "floor": {
+                            "name": "2°"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "d255960b-ca56-42bb-a538-42ed941b737d",
+                "_score": 9.279664,
+                "_source": {
+                    "listing": {
+                        "area": "72.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "7638.888888888889",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Calimio Norte,  segundo piso,  parqueadero para moto,   sala,  comedor,  3 alcobas,  1 closets,  2 baños,  cocina cansilla,  balcón,  patio cubierto. DOCUMENTOS carta laboral ingresos $1.,  presentar los 3 últimos desprendibles de nómina,  copia cedula,  UN DEUDOR de igual ingresos,  contacto.  cita previa..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "d255960b-ca56-42bb-a538-42ed941b737d",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "550000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Renta Bien Inmobiliaria",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 29152
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "fr_property_id": 6829786,
+                        "floor": {
+                            "name": "2°"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "52706bcb-2bf8-4e60-8263-da505a8ca88a",
+                "_score": 9.279664,
+                "_source": {
+                    "listing": {
+                        "area": "50.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "9600.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Se alquila apto en el barrio calimio norte de 50 mt2,  el cual consta de sala comedor amplia e iluminada,  cocina con gas natural,  baño social,  2 habitaciones,  zona de oficios,  dentro del valor del canon de arrendamiento te incluyen los servicios de agua,  energía y gas.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "52706bcb-2bf8-4e60-8263-da505a8ca88a",
+                        "stratum": {
+                            "name": "Estrato 2"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "480000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Inmova House",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 352216
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "50.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Cancha de Baloncesto"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Cancha de Futbol"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En casa"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Hall de Alcobas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Área Urbana"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Bombas de gasolina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Sobre vía secundaria"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6878929,
+                        "floor": {
+                            "name": "3°"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "d5f5475e-ee26-422f-9fd8-d89edd38be4b",
+                "_score": 9.189327,
+                "_source": {
+                    "listing": {
+                        "area": "58.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "9827.586206896553",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": true,
+                            "price": "0.0"
+                        },
+                        "description": "Se alquila apartamento 5to piso en unidad residencial barrio Calimio Norte Consta de 3 habitaciones 2 baños sala comedor cocina con parqueadero común Valor de alquiler 570mil con administración incluida Se requiere carta laboral con datos de la empresa referencias personales y codeudor con finca raíz Depósito de 300mil el cual se reembolsará en el momento en que se verifique que los servicios publicos están pagos y que el apartamento está en las condiciones en que se entregó",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "d5f5475e-ee26-422f-9fd8-d89edd38be4b",
+                        "stratum": {
+                            "name": "Estrato 2"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "570000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "",
+                            "last_name": "Garcia",
+                            "client_type": "PRIVATE",
+                            "first_name": "Lady Laura",
+                            "fr_client_id": 1311677
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "58.0",
+                        "fr_property_id": 6895127,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "sin especificar"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "fff9cad8-80b1-4a71-bf27-94066b9eaa6d",
+                "_score": 9.011513,
+                "_source": {
+                    "listing": {
+                        "area": "80.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "31250.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Apartamento amoblado para estrenar,  ubicado en sector de bochalema,  primer piso,  consta de 3 habitaciones,  2 baños,  todas las habitaciones amobladas con closet y tv. sala comedor,  zona de oficios,  cocina equipada e integral,  oficina o estudio,  parqueadero propio.  la unidad cuenta con gimnasio,  piscinas,  salon social y zona para niños.  .",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "fff9cad8-80b1-4a71-bf27-94066b9eaa6d",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "2500000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "BIENESTAR INMOBILIARIO & LAWYERS SAS",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 3420317
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Acceso Pavimentado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Asador"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Ascensor"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En conjunto cerrado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje / Parqueadero(s)"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje(s)"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Gimnasio"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Parqueadero Visitantes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Piscina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Recepción"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Salón Comunal"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Terraza"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Zonas Verdes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Amoblado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Independiente"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Despensa"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Estudio"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Hall de Alcobas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Piso en Baldosa /  Mármol"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Zona de lavandería"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6732981,
+                        "floor": {
+                            "name": "1°"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "7d7da84b-5368-474d-ae7b-62f20d69eea4",
+                "_score": 8.954477,
+                "_source": {
+                    "listing": {
+                        "area": "45.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "15555.555555555555",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": true,
+                            "price": "0.0"
+                        },
+                        "description": "Alquilamos lindo apartaestudio en el barrio Melndeza solo una cuadra de la calle 5ta,  atrs del colegio americano,  excelente ubicacin. consta de dos ambientes,  el primero Sala Comedor pequea,  cocina semi integral,  instalacin para lavadora,  en el segundo ambiente encontramos la habitacin con balcn,  closet y el bao. Excelentes acabados,  servicios incluidos Emcali,  Gas,  parqueadero para 1 moto,  citfono. a solo 10 min. del Centro Comercial Unicentro y cerca a Universidad del Valle..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "7d7da84b-5368-474d-ae7b-62f20d69eea4",
+                        "stratum": {
+                            "name": "Estrato 4"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "700000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Melissa Rivera",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 514424
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6836812,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "d3f3bc49-a28f-4422-9ce1-7c524073ca85",
+                "_score": 8.9002285,
+                "_source": {
+                    "listing": {
+                        "area": "45.0",
+                        "rooms": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "ROOM_1"
+                        },
+                        "price_m2": "40000.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Se alquila apartamento amoblado,  con una  habitación,  baño y aire acondicionado,  Tv.  sala  con balcón,   cocina integral,  cuarto lavandería con lavadora secadora,  garaje y deposito. .",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "d3f3bc49-a28f-4422-9ce1-7c524073ca85",
+                        "stratum": {
+                            "name": "Estrato 6"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "1"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "1800000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Mi casa inmobiliarios S.A.S.",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 28794
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje / Parqueadero(s)"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje(s)"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Piscina"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Aire Acondicionado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Depósito / Bodega"
+                            }
+                        ],
+                        "fr_property_id": 7027449,
+                        "floor": {
+                            "name": "2°"
+                        },
+                        "age": {
+                            "name": "sin especificar"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "bf256a5b-4a39-4d96-9472-b2f31840c654",
+                "_score": 8.73768,
+                "_source": {
+                    "listing": {
+                        "area": "100.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "8000.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Se alquila apartamento en Primer piso ubicado en el Sur de Cali cerca a centros comerciales y acceso a transporte público Tiene las siguientes características 2 habitaciones cada una con closet 1 baño con ducha sala comedor cocina semi integral patio de ropas área de lavado y planchado El acceso es independiente y NO tiene parqueadero",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "bf256a5b-4a39-4d96-9472-b2f31840c654",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "800000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "",
+                            "last_name": "Diaz",
+                            "client_type": "PRIVATE",
+                            "first_name": "Eliana",
+                            "fr_client_id": 2597815
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Patio"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            }
+                        ],
+                        "fr_property_id": 7029885,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "sin especificar"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "6706b799-23dd-4fb8-b822-787751c76ea6",
+                "_score": 8.73768,
+                "_source": {
+                    "listing": {
+                        "area": "48.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "9583.333333333334",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Apto ubicado en carrera 69 1a 48 barrio Caldas apto 103",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "6706b799-23dd-4fb8-b822-787751c76ea6",
+                        "stratum": {
+                            "name": "Estrato 0"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "460000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "",
+                            "last_name": "villa",
+                            "client_type": "PRIVATE",
+                            "first_name": "carmen patricia",
+                            "fr_client_id": 96576
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "fr_property_id": 7040309,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "sin especificar"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "93826070-2fd2-4789-adba-fa950cf78068",
+                "_score": 8.712279,
+                "_source": {
+                    "listing": {
+                        "area": "70.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "11142.857142857143",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "UNISA INMOBILIARIA Alquila bonito apartamento en tercer piso de 70m²,  barrio Calda. Consta de sala-comedor,  3 habitaciones con closet,  ppal. con baño,  baño auxiliar,  cocina semi-integral con gas y amplio patio al aire libre con reja de seguridad. Piso en cerámica. Terraza amplia. Gas incluido en el canon.(No mascotas) .",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "93826070-2fd2-4789-adba-fa950cf78068",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "BATH_2"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "780000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Unisa Inmobiliaria",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 178921
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "70.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Acceso Pavimentado"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Vista panorámica"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Closet"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Hall de Alcobas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Zona de lavandería"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 7022695,
+                        "floor": {
+                            "name": "3°"
+                        },
+                        "age": {
+                            "name": "1 a 8 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "81cf92cc-2cd9-4b65-b168-bb43f7c3c22a",
+                "_score": 8.712279,
+                "_source": {
+                    "listing": {
+                        "area": "50.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "19000.0",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "OFRECEMOS EN ARRENDAMIENTO AMPLIO E ILUMINADO APARTAMENTO EN SEGUNDO PISO,  EN CUAL CUENTA CON: SALA COMEDOR,  COCINA INTEGRAL CON GAS,  2 HABITACIONES CON CLOSET,  1 BAÑO,  PISOS EN CERÁMICA,  PARQUEADERO PARA 1 MOTO. (INCLUIDOS LOS SERVICIOS) ENTORNO: CERCA A LA CR 66,  SUPERMERCADO LA GRAN COLOMBIA,  PARQUES,  IGLESIA DEL DIVINO SALVADOR. (MA-028).",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "81cf92cc-2cd9-4b65-b168-bb43f7c3c22a",
+                        "stratum": {
+                            "name": "Estrato 3"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "950000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Garbiras Inmobiliaria",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 29011
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "50.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Cómodas vias de acceso"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parques cercanos"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Supermercados / C.Comerciales"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Trans. Público cercano"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6953503,
+                        "floor": {
+                            "name": "2°"
+                        },
+                        "age": {
+                            "name": "más de 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "f9c6b8ea-8631-4228-9822-39de0a16a12c",
+                "_score": 8.707462,
+                "_source": {
+                    "listing": {
+                        "area": "108.0",
+                        "rooms": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "ROOM_3"
+                        },
+                        "price_m2": "12962.962962962964",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Apartamento en Capri edificio Amalfi ubicado sobre la autopista sur oriental con fáciles vías de acceso,  parqueo privado y bahía externa de parqueo para invitados,  cuenta con portería totalmente vigilada,  cerca al centro comercial premier limonar,  cerca a estaciones del mío.Cuenta con excelente vista y completamente ventilado.valor del Canon incluye administración   JSCO.",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "f9c6b8ea-8631-4228-9822-39de0a16a12c",
+                        "stratum": {
+                            "name": "Estrato 5"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "2"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "BATH_3"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "1400000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Global Juridica y Servicios Inmobiliarios",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 506668
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "108.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Bahía exterior de parqueo"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Bahias de parqueo"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En Edificio"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "En zona Comercial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Garaje Cubierto"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Parqueadero Visitantes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Recepción"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "exterior"
+                                },
+                                "name": "Portería / Vigilancia"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Baño Auxiliar"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Cocina Integral"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Comedor"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Instalación de gas"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Servicios independientes"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Ventilación Natural"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Zona de lavandería"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Área Urbana"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Esquinero"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Parque industrial"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6688597,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "ec30a67f-174a-4412-93f9-d8f81380d0a2",
+                "_score": 8.632829,
+                "_source": {
+                    "listing": {
+                        "area": "118.0",
+                        "rooms": {
+                            "name": "Sin especificar",
+                            "id": 0,
+                            "slug": "UNDEFINED"
+                        },
+                        "price_m2": "38135.59322033898",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": true,
+                            "price": "0.0"
+                        },
+                        "description": "Espectacular apartamento en arriendo en Altos de ciudad jardn cuenta con,  Sala comedor con balcn,  cocina integral,  Zona de oficios Amplia,  Bao social,  dos habitaciones auxiliares con closet,  habitacin principal con Vestier y bao independientes adicionalmente cuenta con balcn. El conjunto cuenta con terraza central,  zona hmeda,  Piscina para nios y adultos,  Gimnasio,  sala de juegos para nios,  dos salones comunales,  sala de cine,  coworking,  dos parqueaderos asignados lineales,  y parqueaderos para visitantes..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "ec30a67f-174a-4412-93f9-d8f81380d0a2",
+                        "stratum": {
+                            "name": "Estrato 5"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Sin especificar",
+                            "slug": "NONE"
+                        },
+                        "baths": {
+                            "name": "3",
+                            "id": 3,
+                            "slug": "BATH_3"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "4500000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "Melissa Rivera",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 514424
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "0.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Balcón"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Citófono"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Colegios / Universidades"
+                            },
+                            {
+                                "parent": {
+                                    "slug": "sector"
+                                },
+                                "name": "Zona Residencial"
+                            }
+                        ],
+                        "fr_property_id": 6891805,
+                        "floor": {
+                            "name": "Sin especificar"
+                        },
+                        "age": {
+                            "name": "menor a 1 año"
+                        }
+                    }
+                }
+            },
+            {
+                "_index": "fr-site-listing",
+                "_type": "_doc",
+                "_id": "179ae222-15ef-4325-9611-1641c2a92fe9",
+                "_score": 8.623622,
+                "_source": {
+                    "listing": {
+                        "area": "55.0",
+                        "rooms": {
+                            "name": "2",
+                            "id": 2,
+                            "slug": "ROOM_2"
+                        },
+                        "price_m2": "8181.818181818182",
+                        "is_new": false,
+                        "administration": {
+                            "is_included": false,
+                            "price": "0.0"
+                        },
+                        "description": "Al norte de la ciudad de Cali se encuentra este apartamento en segundo nivel con pisos en baldosa,  el cual se ubica cerca a la vía hacia Palmira,  con centros deportivos y de esparcimiento aledaños como lo son el tertuliadero,  el patinódromo y el polideportivo del sector,  así como también hay centros de salud y diversos establecimientos comerciales que te facilitarán la vida en tu día a día. Con sala comedor,  dos alcobas,  un baño y cocina sencilla este apartamento tiene lo esencial para vivir tranquilamente,  adicionalmente cuenta también con zona de oficios,  lavadero y punto para lavadora. Contáctanos y con gusto te brindaremos más información del que puede ser tu próximo hogar..",
+                        "title": "Apartamento en Arriendo",
+                        "property_id": "179ae222-15ef-4325-9611-1641c2a92fe9",
+                        "stratum": {
+                            "name": "Estrato 2"
+                        },
+                        "offer": [
+                            {
+                                "name": "Arriendo"
+                            }
+                        ],
+                        "garages": {
+                            "name": "Sin especificar"
+                        },
+                        "condition": {
+                            "name": "Bueno",
+                            "slug": "GOOD"
+                        },
+                        "baths": {
+                            "name": "1",
+                            "id": 1,
+                            "slug": "BATH_1"
+                        },
+                        "min_price": "0",
+                        "fr_parent_property_id": 0,
+                        "price": "450000.0",
+                        "min_area": "0",
+                        "client": {
+                            "company_name": "A Y C inmobiliarios S.A.S",
+                            "last_name": "",
+                            "client_type": "BROKER",
+                            "first_name": "",
+                            "fr_client_id": 29116
+                        },
+                        "property_type": [
+                            {
+                                "name": "Apartamento",
+                                "slug": "apartment"
+                            }
+                        ],
+                        "living_area": "55.0",
+                        "categories": [
+                            {
+                                "parent": {
+                                    "slug": "interior"
+                                },
+                                "name": "Piso en Baldosa /  Mármol"
+                            }
+                        ],
+                        "fr_property_id": 6917720,
+                        "floor": {
+                            "name": "2°"
+                        },
+                        "age": {
+                            "name": "16 a 30 años"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

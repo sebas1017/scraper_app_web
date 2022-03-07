@@ -1,0 +1,176 @@
+{
+    "took": 2796,
+    "timed_out": false,
+    "_shards": {
+        "total": 3,
+        "successful": 3,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 0,
+            "relation": "eq"
+        },
+        "max_score": null,
+        "hits": []
+    },
+    "aggregations": {
+        "floor_plans_terms": {
+            "doc_count": 0,
+            "floor_plans_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "products_terms": {
+            "meta": {},
+            "doc_count": 0,
+            "products_terms_nested": {
+                "meta": {},
+                "doc_count": 0,
+                "products_terms_filtered": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": []
+                }
+            }
+        },
+        "property_type_terms": {
+            "doc_count": 0,
+            "property_type_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "countries_terms": {
+            "doc_count": 0,
+            "countries_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "age_terms": {
+            "doc_count": 0,
+            "age_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "stratum_terms": {
+            "doc_count": 0,
+            "stratum_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "photos_terms": {
+            "doc_count": 0,
+            "photos_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "baths_terms": {
+            "doc_count": 0,
+            "baths_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "groups_terms": {
+            "doc_count": 0,
+            "groups_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "categories_terms": {
+            "doc_count": 0,
+            "categories_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "neighbourhoods_terms": {
+            "doc_count": 0,
+            "neighbourhoods_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "rooms_terms": {
+            "doc_count": 0,
+            "rooms_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "offer_terms": {
+            "doc_count": 0,
+            "offer_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "subgroups_terms": {
+            "doc_count": 0,
+            "subgroups_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "cities_terms": {
+            "doc_count": 0,
+            "cities_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "states_terms": {
+            "doc_count": 0,
+            "states_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "videos_terms": {
+            "doc_count": 0,
+            "videos_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        },
+        "is_new_terms": {
+            "meta": {},
+            "doc_count": 0,
+            "is_new_terms_filtered": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": []
+            }
+        }
+    },
+    "cache": {
+        "id": "ListingDocument-b6394200d7291e5558b66e5b6966856892975a22",
+        "time_type": "minutes",
+        "time_data": 5,
+        "datetime": "2022-02-23 22:18:04"
+    }
+}

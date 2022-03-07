@@ -1,0 +1,4 @@
+scrapy
+scrapyrt
+coverage
+pytest
